@@ -12,7 +12,7 @@
     <img 
         src="https://img.shields.io/badge/Gmail-Me%20envie%20um%20email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         alt="Enviar email para bbarelli.dev@gmail.com"
-        title="Me envie um email"
+        title="Envie um email"
         width="170px"
         style="border-radius: 4px;"
     />
