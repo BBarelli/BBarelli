@@ -23,15 +23,15 @@
 
 **`Desenvolvedor Python & Analista de Dados`**
 
-Me chamo Breno Barelli, sou de Fortaleza-CE. Atualmente estou estudando Análise e Desenvolvimento de Sistemas. Python, Automação, Web Scraping, SQL Serven e IA são a minha área de atuação.
+Me chamo Breno Barelli, sou de Fortaleza-CE. Atualmente estou estudando Análise e Desenvolvimento de Sistemas. Python, Automação, Web Scraping, SQL Serven e IA tem sido 
 
 ## Experiência Profissional
 
 💻 [Out/2012 - Dez/2024] Processamento de Dados
 
 💻 [Jan/2025 - Jul/2025] Estágio Analise Desenvolvimento de Sistemas 
-
-### Ferramentas e ambientes
+## Habilidades
+### 💻 Ferramentas e ambientes
 <img 
     align="left" 
     alt="Git" 
@@ -43,7 +43,7 @@ Me chamo Breno Barelli, sou de Fortaleza-CE. Atualmente estou estudando Análise
 <br>
 <br>
 
-### Linguagens e Tecnologias
+### 💻 Desenvolvimento Back-End
 
 
 <img 
