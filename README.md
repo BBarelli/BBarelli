@@ -1,90 +1,55 @@
 # Breno Barelli
-<a href="https://www.linkedin.com/in/breno-barelli-6aab65138/" target="_blank">
-    <img 
-        src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        alt="Conectar no LinkedIn"
-        title="Me siga no LinkedIn"
-        width="128px"
-        style="border-radius: 4px;"
-    />
-</a>
-<a href="mailto:bbarelli.dev@gmail.com">
-    <img 
-        src="https://img.shields.io/badge/Gmail-Me%20envie%20um%20email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-        alt="Enviar email para bbarelli.dev@gmail.com"
-        title="Envie um email"
-        width="170px"
-        style="border-radius: 4px;"
-    />
-</a>
-<br>
 
-## Sobre Mim
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)  
+📧 bbarelli.dev@gmail.com
 
-**`Desenvolvedor Python & Analista de Dados`**
+---
 
-Me chamo Breno Barelli, sou de Fortaleza-CE. Atualmente estou estudando Análise e Desenvolvimento de Sistemas. Python, Automação, Web Scraping, SQL Serven e IA tem sido a minha área de atuação no presente e do futuro, mas estou sempre em busca de novos conhecimento.
+## 👋 Sobre Mim  
+Sou Breno Barelli, de Fortaleza-CE, em transição para tecnologia, cursando Análise e Desenvolvimento de Sistemas. Tenho mais de 10 anos de experiência com tratamento e organização de dados no setor educacional, focando em eficiência, suporte à gestão e otimização de processos.
 
-### Experiência Profissional
+Atualmente, atuo com:  
+- Python (incluindo Flask e automações com Selenium)  
+- SQL Server e automações com n8n  
+- Desenvolvimento Web (HTML, CSS, JavaScript, Bootstrap)  
+- Estudo React e Angular para front-end moderno  
+- Web scraping, APIs REST, AWS (básico), e inteligência artificial aplicada  
 
-💻 [Out/2012 - Dez/2024] Processamento de Dados <br>
-💻 [Jan/2025 - Jul/2025] Estágio Analise Desenvolvimento de Sistemas 
+Busco oportunidades remotas para contribuir com projetos desafiadores, unindo experiência prática e conhecimento técnico para gerar soluções reais e acessíveis.
 
-## Habilidades
-### 💻 Ferramentas e ambientes
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<br>
-<br>
+---
 
-### 💻 Desenvolvimento Back-End
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Selenium" 
-    title="Selenium"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"                 
- />
-<img 
-    align="left" 
-    alt="Sql" 
-    title="Sql-Serven"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"        
- />
-<br/>
-<br/>
+## 💼 Experiência Profissional
 
-### 📊 Estatísticas
+- **Processamento de Dados e Análise**  
+  _Out/2012 – Dez/2024_  
+  - Desenvolvimento de telas de metadados e cubos de análise SQL no TOTVS RM  
+  - Consultas avançadas em SQL Server para relatórios estratégicos  
+  - Suporte técnico à plataforma Doc.Express  
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="160" 
-    style="padding-right: 10px;" 
-        src="https://github-readme-stats.vercel.app/api?username=BBarelli&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="160" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BBarelli&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-  </p>
+- **Estágio em Análise e Desenvolvimento de Sistemas**  
+  _Jan/2025 – Jul/2025_
+
+---
+
+## 🛠️ Habilidades Técnicas  
+
+| Ferramentas & Plataformas                     | Back-End                      | Front-End                         | Outros                         |
+|----------------------------------------------|-------------------------------|----------------------------------|-------------------------------|
+| Git, SQL Server, TOTVS RM, Doc.Express, n8n, AWS (básico) | Python (Flask, Selenium), SQL  | HTML, CSS, JavaScript, Bootstrap, React (estudo), Angular (estudo) | Web Scraping, APIs REST, Inteligência Artificial aplicada |
+
+---
+
+## 🚀 Projetos em Destaque  
+
+- [Projeto 1: Nome do Projeto](link-para-o-projeto) – descrição breve do que faz  
+- [Projeto 2: Nome do Projeto](link-para-o-projeto) – descrição breve do que faz  
+- [Projeto 3: Nome do Projeto](link-para-o-projeto) – descrição breve do que faz  
+
+*(Me envie os links e descrições dos seus projetos que atualizo pra você!)*
+
+---
+
+## 📚 Formação  
+
+- Análise e Desenvolvimento de Sistemas (em andamento)
