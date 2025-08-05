@@ -31,11 +31,19 @@ Busco oportunidades remotas para contribuir com projetos desafiadores, unindo ex
 
 ---
 
-## 🛠️ Habilidades Técnicas  
+## 🛠️ Habilidades Técnicas
 
-| 🛠️ Ferramentas & Plataformas                                             | 🐍 Back-End                                     | 🌐 Front-End                                                        | 🤖 Outros                                     |
-|-------------------------------------------------------------------------|-------------------------------------------------|-------------------------------------------------------------------|----------------------------------------------|
-| <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/git/git-original.svg" width="20"/> Git, SQL Server, TOTVS RM, Doc.Express, n8n, <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/amazonwebservices/amazonwebservices-original.svg" width="20"/> AWS (básico) | <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/python/python-original.svg" width="20"/> Python (Flask, Selenium), SQL | <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/html5/html5-original.svg" width="20"/> HTML, <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/css3/css3-original.svg" width="20"/> CSS, <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/javascript/javascript-original.svg" width="20"/> JavaScript, <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/bootstrap/bootstrap-original.svg" width="20"/> Bootstrap, <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/react/react-original.svg" width="20"/> React (estudo), <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/angularjs/angularjs-original.svg" width="20"/> Angular (estudo) | <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/scrapy/scrapy-original.svg" width="20"/> Web Scraping, <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/express/express-original.svg" width="20"/> APIs REST, <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/tensorflow/tensorflow-original.svg" width="20"/> Inteligência Artificial aplicada |
+**🛠️ Ferramentas & Plataformas:**  
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/git/git-original.svg" width="20"/> Git, SQL Server, TOTVS RM, Doc.Express, n8n, <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/amazonwebservices/amazonwebservices-original.svg" width="20"/> AWS (básico)
+
+**🐍 Back-End:**  
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/python/python-original.svg" width="20"/> Python (Flask, Selenium), SQL
+
+**🌐 Front-End:**  
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/html5/html5-original.svg" width="20"/> HTML, <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/css3/css3-original.svg" width="20"/> CSS, <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/javascript/javascript-original.svg" width="20"/> JavaScript, <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/bootstrap/bootstrap-original.svg" width="20"/> Bootstrap, <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/react/react-original.svg" width="20"/> React (estudo), <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/angularjs/angularjs-original.svg" width="20"/> Angular (estudo)
+
+**🤖 Outros:**  
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/scrapy/scrapy-original.svg" width="20"/> Web Scraping, <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/express/express-original.svg" width="20"/> APIs REST, <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/tensorflow/tensorflow-original.svg" width="20"/> Inteligência Artificial aplicada
 
 ---
 
