@@ -3,9 +3,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bbarelli.dev@gmail.com)
 
 ---
-
+ 
 ## 👋 Sobre Mim  
-Sou Breno Barelli, de Fortaleza-CE, em transição para tecnologia, cursando Análise e Desenvolvimento de Sistemas. Tenho mais de 10 anos de experiência com tratamento e organização de dados no setor educacional, focando em eficiência, suporte à gestão e otimização de processos.
+Sou Breno Barelli, de Fortaleza-CE, em transição para tecnologia, cursando Análise e Desenvolvimento de Sistemas. Tenho experiência com tratamento e organização de dados no setor educacional, focando em eficiência, suporte à gestão e otimização de processos.
 
 Atualmente, atuo com:  
 - 🐍 Python (incluindo Flask e automações com Selenium)  
